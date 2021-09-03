@@ -1,0 +1,5 @@
+# requirements.txt
+# Terminal UI
+click
+prompt_toolkit
+npyscreen

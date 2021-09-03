@@ -1,0 +1,6 @@
+Linux:
+Faut installer pyparted au niveau du système (python3-pyparted?) ou avec pip
+Avec pip se peut que nécessaire d'installer libparted
+
+Mac
+installer e2fsprog (ext2 3 4)
